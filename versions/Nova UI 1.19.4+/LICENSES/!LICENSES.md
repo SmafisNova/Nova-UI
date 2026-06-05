@@ -71,12 +71,15 @@ Overflowing Bars
 - Directory: assets\overflowingbars
 - Source: https://github.com/Fuzss/overflowingbars/tree/1.19
 # Apache License 2.0
+Command Keys
+- Directories: assets\commandkeys, format_16_plus\assets\commandkeys
+- Source: https://github.com/TerminalMC/CommandKeys/
+- Modified by: SmafisNova
+---
 Fabric API
-- Directory: assets\fabric
+- Directories: assets\fabric, format_34_plus\assets\fabric
 - Source: https://github.com/FabricMC/fabric-api
 - Modified by: SmafisNova
-# GNU General Public License v3.0 or later
-
 # GNU Lesser General Public License v3.0 or later
 Cherished Worlds
 - Directory: assets\cherishedworlds
@@ -165,6 +168,11 @@ AppleSkin
 Bundles Beyond
 - Directory: assets\bundlesbeyond
 - Source: https://github.com/O7410/Bundles-Beyond
+- Modified: Yes
+---
+Default Dark Mode
+- Directories: format_76_plus\assets\minecraft\shaders\core\rendertype_text.fsh, rendertype_text_intensity.fsh
+- Source: https://github.com/nebuIr/Default-Dark-Mode
 - Modified: Yes
 ---
 No Chat Reports
