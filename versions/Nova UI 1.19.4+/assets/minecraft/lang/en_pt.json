@@ -1,0 +1,5 @@
+{
+    "rpo.nova_ui": "Nova UI options",
+    "rpo.nova_ui.crosshair": "Aligned reticle",
+    "rpo.nova_ui.crosshair.tooltip": "Turn it to false if ye got a magic jar o' an aligned reticle on board"
+}

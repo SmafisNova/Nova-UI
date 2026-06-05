@@ -1,0 +1,5 @@
+{
+    "rpo.nova_ui": "Nova UI Settings",
+    "rpo.nova_ui.crosshair": "Aiming Target Center'd",
+    "rpo.nova_ui.crosshair.tooltip": "Set it to false if thou usets a mod for a aiming target center'd"
+}

@@ -1,0 +1,5 @@
+{
+    "rpo.nova_ui": "Nova UI Options",
+    "rpo.nova_ui.crosshair": "Croix centrée",
+    "rpo.nova_ui.crosshair.tooltip": "Tu peux régler ça sur \"false\" si tu utilises un mod de croix centrée"
+}

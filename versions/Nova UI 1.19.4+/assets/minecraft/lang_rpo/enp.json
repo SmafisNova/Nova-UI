@@ -1,0 +1,5 @@
+{
+    "rpo.nova_ui": "Nova UI Settings",
+    "rpo.nova_ui.crosshair": "Centred Crosshair",
+    "rpo.nova_ui.crosshair.tooltip": "Set it to \"false\" if you are using a centred crosshair mod"
+}
