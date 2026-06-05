@@ -10,7 +10,7 @@ This license (CC-BY-NC-SA-4.0) applies ONLY to original content created by Smafi
 
 All third-party assets, including modified versions of those assets, remain under their original licenses and are NOT covered by this license.
 
-See the LICENSES\ directory for full license texts, attribution, and file-to-license mapping.
+See the LICENSES directory for full license texts, attribution, and file-to-license mapping.
 
 Where there is any conflict, the original license of third-party content takes precedence.
 
