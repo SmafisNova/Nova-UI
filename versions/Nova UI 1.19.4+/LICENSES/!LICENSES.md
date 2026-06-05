@@ -4,6 +4,12 @@ Armor Hud
 - Source: https://github.com/SaolGhra/Armor-Hud
 - Modifications: Enhanced the icons to better match the style of the HUD.
 ---
+Armor Hud by Mcjunky33
+- Directory: assets\armor_hud
+- License: MIT
+- Source: https://github.com/Mcjunky33/ArmorHudMod
+- Modifications: Enhanced the icons to better match the style of the HUD.
+---
 Auth Me
 - Directory: assets\authme
 - License: MIT
@@ -16,11 +22,23 @@ Better Advancements
 - Source: https://github.com/way2muchnoise/BetterAdvancements
 - Modifications: Added dark mode support.
 ---
+Better Fletching Tables
+- Directory: assets\bft
+- License: MIT
+- Source: https://github.com/EclipseStudiosMC/better_fletching_table
+- Modifications: Added dark mode support.
+---
 Bundles Beyond
 - Directory: assets\bundlesbeyond
 - License: CC-BY-NC-SA-4.0
-- Source: https://github.com/O7410/Bundles-Beyond
-- Modifications: Added dark mode support for Mod Menu config.
+- Source: https://github.com/EclipseStudiosMC/better_fletching_table
+- Modifications: Added dark mode support.
+---
+Capes
+- Directory: assets\capes
+- License: LGPL-2.1-only
+- Source: https://github.com/CaelTheColher/Capes
+- Modifications: Added dark mode support.
 ---
 Cherished Worlds
 - Directory: assets\cherishedworlds
@@ -130,14 +148,32 @@ Mod Menu
 - Source: https://github.com/TerraformersMC/ModMenu
 - Modifications: Added dark mode support.
 ---
+Overflowing Bars
+- Directory: assets\overflowingbars
+- License: MPL-2.0
+- Source: https://github.com/Fuzss/overflowingbars/tree/1.19
+- Modifications: Enhanced the icons to better match the style of the HUD.
+---
 Puzzle
 - Directory: assets\puzzle
 - License: MIT
 - Source: https://github.com/PuzzleMC/Puzzle
 - Modifications: Added dark mode support.
 ---
+Raised
+- Directory: assets\raised
+- License: LGPL-3.0-or-later
+- Source: https://github.com/yurisuika/Raised
+- Modifications: Added support for the mod's hotbar selection, and added dark mode support.
+---
 Shulker Box Tooltip
 - Directory: assets\shulkerboxtooltip
 - License: MIT
 - Source: https://github.com/MisterPeModder/ShulkerBoxTooltip
+- Modifications: Added dark mode support.
+---
+Trinkets
+- Directory: assets\trinkets
+- License: MIT
+- Source: https://github.com/emilyploszaj/trinkets
 - Modifications: Added dark mode support.

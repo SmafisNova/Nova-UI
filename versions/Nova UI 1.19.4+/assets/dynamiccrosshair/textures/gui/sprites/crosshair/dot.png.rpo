@@ -1,0 +1,7 @@
+{
+    "condition": "crosshair",
+    "fallbacks": [
+        "assets/respackopts/textures/gui/sprites/crosshair/dot.png",
+        "assets/dynamiccrosshair/textures/gui/sprites/hud/dot.png"
+    ]
+}

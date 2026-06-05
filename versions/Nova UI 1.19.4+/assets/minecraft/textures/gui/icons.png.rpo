@@ -1,0 +1,7 @@
+{
+    "condition": "crosshair",
+    "fallbacks": [
+        "assets/respackopts/textures/gui/icons.png",
+        "assets/minecraft/textures/gui/icons.png"
+    ]
+}
