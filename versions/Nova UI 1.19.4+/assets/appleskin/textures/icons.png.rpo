@@ -1,0 +1,7 @@
+{
+    "condition": "hunger",
+    "fallbacks": [
+        "assets/appleskin/respackopts/textures/icons.png",
+        "assets/appleskin/textures/icons.png"
+    ]
+}

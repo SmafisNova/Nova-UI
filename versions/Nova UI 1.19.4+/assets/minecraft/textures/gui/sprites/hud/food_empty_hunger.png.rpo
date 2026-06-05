@@ -1,0 +1,7 @@
+{
+    "condition": "hunger",
+    "fallbacks": [
+        "assets/minecraft/respackopts/textures/gui/sprites/hud/food_empty_hunger.png",
+        "assets/minecraft/textures/gui/sprites/hud/food_empty_hunger.png"
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "condition": "crosshair",
     "fallbacks": [
-        "assets/respackopts/textures/gui/sprites/hud/crosshair.png",
+        "assets/minecraft/respackopts/textures/gui/sprites/hud/crosshair.png",
         "assets/minecraft/textures/gui/sprites/hud/crosshair.png"
     ]
 }

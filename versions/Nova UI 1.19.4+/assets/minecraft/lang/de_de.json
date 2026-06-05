@@ -1,5 +1,7 @@
 {
     "rpo.nova_ui": "Nova UI-Einstellungen",
     "rpo.nova_ui.crosshair": "Zentriertes Fadenkreuz",
-    "rpo.nova_ui.crosshair.tooltip": "Setze es auf \"false\" wenn du eine Mod für ein zentriertes Fadenkreuz verwendest"
+    "rpo.nova_ui.crosshair.tooltip": "Setze es auf \"False\" wenn du\neine Mod für ein zentriertes\nFadenkreuz verwendest.",
+    "rpo.nova_ui.hunger": "Keine unnötigen Hungeranzeigeumrandungen",
+    "rpo.nova_ui.hunger.tooltip": "\"False\" aktiviert die\nverschiedenen Umrandungen der\nHungeranzeige, während\"True\"\ndiese ansonsten unnötigen\nUmrandungen entfernt."
 }

@@ -3,6 +3,7 @@
     "version": 9,
     "capabilities": ["FileFilter", "DirFilter"],
     "conf": {
-        "crosshair": true
+        "crosshair": true,
+        "hunger": true
     }
 }
