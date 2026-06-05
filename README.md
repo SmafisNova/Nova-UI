@@ -1,12 +1,7 @@
 # Nova UI
 A modern-looking vanilla-like dark mode GUI pack with support for many mods. It turns the UI to dark mode and enhances the visuals of the HUD elements by drastic messures (e.g. health, armor and food bars, hotbar). It also contains an integrated, centered crosshair.
 
-<a src="https://modrinth.com/project/1yOsbSgy">
-  <img src="https://cdn.modrinth.com/data/cached_images/4da12d5c64e20fa846f0afe77a05b2f461bc2578.png" width=40 height=40 alt="Modrinth">
-</a>
-<a src="https://discord.gg/qh7kUsWzfn">
-  <img src="https://cdn.modrinth.com/data/cached_images/fa93a00d6c6a42e4871f3267f4d8c27e70e865f2.png" width=40 height=40 alt="Discord">
-</a>
+<a src="https://modrinth.com/project/1yOsbSgy"> <img src="https://cdn.modrinth.com/data/cached_images/4da12d5c64e20fa846f0afe77a05b2f461bc2578.png" width=40 height=40 alt="Modrinth"> </a> <a src="https://discord.gg/qh7kUsWzfn"> <img src="https://cdn.modrinth.com/data/cached_images/fa93a00d6c6a42e4871f3267f4d8c27e70e865f2.png" width=40 height=40 alt="Discord"> </a>
 
 ## Resource Pack Options
 This resource pack also comes with options for [Respackopts](https://modrinth.com/mod/respackopts). One allows you to enable or disable the integrated centered crosshair, the other one gives you the choice to re-enable the unnecessary hunger bar outlines, such as the Hunger and AppleSkin outlines, which have been replaced by a dedicated saturated food icon.
@@ -92,7 +87,7 @@ This license (CC-BY-NC-SA-4.0) applies ONLY to original content created by Smafi
 
 All third-party assets, including modified versions of those assets, remain under their original licenses and are NOT covered by this license.
 
-See the LICENSES\ directory for full license texts, attribution, and file-to-license mapping.
+See the LICENSES directory for full license texts, attribution, and file-to-license mapping.
 
 Where there is any conflict, the original license of third-party content takes precedence.
 
