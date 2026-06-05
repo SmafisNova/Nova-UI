@@ -1,0 +1,7 @@
+{
+    "condition": "crosshair",
+    "fallbacks": [
+        "assets/owo/respackopts/textures/gui/sprites/cursors/horizontal_resize.png",
+        "assets/owo/textures/gui/sprites/cursors/horizontal_resize.png"
+    ]
+}

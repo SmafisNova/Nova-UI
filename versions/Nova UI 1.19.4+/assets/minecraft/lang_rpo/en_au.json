@@ -1,7 +1,7 @@
 {
     "rpo.nova_ui": "Nova UI Settings",
-    "rpo.nova_ui.crosshair": "Centred Crosshair",
-    "rpo.nova_ui.crosshair.tooltip": "Set it to \"False\" if you are\nusing a centred crosshair mod.",
-    "rpo.nova_ui.hunger": "No Unnecessary Hunger Bar Outlines",
-    "rpo.nova_ui.hunger.tooltip": "\"False\" enables the various\nhunger bar outlines, while\n\"True\" gets rid of these\notherwise unnecessary outlines."
+        "rpo.nova_ui.crosshair": "Centred Crosshair",
+            "rpo.nova_ui.crosshair.tooltip": "Set it to \"False\" if you are\nusing a centred crosshair mod.",
+        "rpo.nova_ui.hunger": "No Unnecessary Hunger Bar Outlines",
+            "rpo.nova_ui.hunger.tooltip": "\"False\" enables the various\nhunger bar outlines, while\n\"True\" gets rid of these\notherwise unnecessary outlines."
 }

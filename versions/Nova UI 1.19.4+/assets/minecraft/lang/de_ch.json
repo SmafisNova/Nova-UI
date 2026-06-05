@@ -1,7 +1,7 @@
 {
     "rpo.nova_ui": "Nova UI-Iistellige",
-    "rpo.nova_ui.crosshair": "Zentriertes Fadechrüüz",
-    "rpo.nova_ui.crosshair.tooltip": "Setz es uuf \"False\" wenn du e\nMod für es zentriertes\nFadechrüüz verwendisch.",
-    "rpo.nova_ui.hunger": "Kei unnötigi Hungerazeigiumrandige",
-    "rpo.nova_ui.hunger.tooltip": "\"False\" aktiviert die\nverschiidene Umrandige vo de\nHungerazeigi, während \"True\"\ndie suscht unnötigi Umrandige\nentfernt."
+        "rpo.nova_ui.crosshair": "Zentriertes Fadechrüüz",
+            "rpo.nova_ui.crosshair.tooltip": "Setz es uuf \"False\" wenn du e\nMod für es zentriertes\nFadechrüüz verwendisch.",
+        "rpo.nova_ui.hunger": "Kei unnötigi Hungerazeigiumrandige",
+            "rpo.nova_ui.hunger.tooltip": "\"False\" aktiviert die\nverschiidene Umrandige vo de\nHungerazeigi, während \"True\"\ndie suscht unnötigi Umrandige\nentfernt."
 }

@@ -23,6 +23,15 @@ Auth Me
 - Source: https://github.com/axieum/authme
 - Modifications: Enhanced the icons to better match company logos, and added dark mode support.
 ---
+Axiom
+- Directory: assets\axiom
+- License: ARR (All Rights Reserved)
+- Copyright holder: Moulberry
+- Granted permissions: Permission has been granted to use and redistribute Axiom assets, including modified versions of those assets, within a non-commercial dark mode resource pack distributed on Modrinth.
+- Permission evidence: [Discord > Axiom > #support > Can I add Axiom support to my resource pack?](https://discord.com/channels/1123229768087777330/1504843195811495996)
+- Source: https://modrinth.com/mod/axiom
+- Modifications: Added dark mode support.
+---
 Better Advancements
 - Directory: assets\betteradvancements
 - License: Don't Be a Jerk
@@ -201,6 +210,12 @@ Overflowing Bars
 - Source: https://github.com/Fuzss/overflowingbars/tree/1.19
 - Modifications: Enhanced the icons to better match the style of the HUD.
 ---
+oωo
+- Directory: assets\owo
+- License: MIT
+- Source: https://github.com/wisp-forest/owo-lib
+- Modifications: Added dark mode support.
+---
 Packed Packs
 - Directory: assets\packed_packs
 - License: MIT
@@ -225,6 +240,12 @@ ReplayMod
 - Directory: assets\replaymod\replay_gui.png
   - License: MIT
 - Source: https://github.com/ReplayMod/ReplayMod
+- Modifications: Added dark mode support.
+---
+Show Me Your Skin!
+- Directory: assets\showmeyourskin
+- License: MIT
+- Source: https://codeberg.org/enjarai/show-me-your-skin
 - Modifications: Added dark mode support.
 ---
 Shulker Box Tooltip
