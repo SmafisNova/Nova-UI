@@ -1,3 +1,10 @@
+AppleSkin
+- Directory: assets\appleskin
+- Original License: Unlicense
+- Source: https://github.com/squeek502/AppleSkin
+- Distributed in this project under: CC-BY-NC-SA-4.0
+- Modifications: Enhanced the icons to better match the style of the HUD.
+---
 Armor Hud
 - Directory: assets\armor_hud
 - License: MIT
@@ -34,6 +41,24 @@ Bundles Beyond
 - Source: https://github.com/EclipseStudiosMC/better_fletching_table
 - Modifications: Added dark mode support.
 ---
+Camera Mod
+- Directory: assets\camera
+- License: ARR (All Rights Reserved)
+- Copyright holder: henkelmax
+- Granted permissions: Permission was granted by the copyright holder to include and redistribute support for their mod in this project, provided that no original mod icons or logos are included.
+- Permission evidence: [Discord > Simple Voice Chat > #support-threats > Support thread for smafisnova](https://discord.com/channels/854659575324344340/1497237531169915011)
+- Source: https://github.com/henkelmax/camera
+- Modifications: Added dark mode support.
+---
+Camera Utils
+- Directory: assets\camerautils
+- License: ARR (All Rights Reserved)
+- Copyright holder: henkelmax
+- Granted permissions: Permission was granted by the copyright holder to include and redistribute support for their mod in this project, provided that no original mod icons or logos are included.
+- Permission evidence: [Discord > Simple Voice Chat > #support-threats > Support thread for smafisnova](https://discord.com/channels/854659575324344340/1497237531169915011)
+- Source: https://github.com/henkelmax/camera-utils
+- Modifications: Added dark mode support.
+---
 Capes
 - Directory: assets\capes
 - License: LGPL-2.1-only
@@ -50,6 +75,15 @@ Cloth Config API
 - Directory: assets\cloth-config2
 - License: LGPL-3.0-only
 - Source: https://github.com/shedaniel/cloth-config
+- Modifications: Added dark mode support.
+---
+Corpse
+- Directory: assets\corpse
+- License: ARR (All Rights Reserved)
+- Copyright holder: henkelmax
+- Granted permissions: Permission was granted by the copyright holder to include and redistribute support for their mod in this project, provided that no original mod icons or logos are included.
+- Permission evidence: [Discord > Simple Voice Chat > #support-threats > Support thread for smafisnova](https://discord.com/channels/854659575324344340/1497237531169915011)
+- Source: https://github.com/henkelmax/corpse
 - Modifications: Added dark mode support.
 ---
 Detail Armor Bar
@@ -142,10 +176,23 @@ MaLiLib
 - Source: https://github.com/maruohon/malilib/
 - Modifications: Added dark mode support.
 ---
+MidnightLib
+- Directory: assets\midnightlib
+- License: MIT
+- Source: https://github.com/TeamMidnightDust/MidnightLib
+- Modifications: Changed button icon to resemble the mod logo more, and added dark mode, support.
+---
 Mod Menu
 - Directory: assets\modmenu
 - License: MIT
 - Source: https://github.com/TerraformersMC/ModMenu
+- Modifications: Added dark mode support.
+---
+No Chat Reports
+- Directory: assets\nochatreports
+- Original License: WTFPL
+- Source: https://github.com/Aizistral-Studios/No-Chat-Reports
+- Distributed in this project under: CC-BY-NC-SA-4.0
 - Modifications: Added dark mode support.
 ---
 Overflowing Bars
@@ -153,6 +200,12 @@ Overflowing Bars
 - License: MPL-2.0
 - Source: https://github.com/Fuzss/overflowingbars/tree/1.19
 - Modifications: Enhanced the icons to better match the style of the HUD.
+---
+Packed Packs
+- Directory: assets\packed_packs
+- License: MIT
+- Source: https://github.com/fishstiz/packed_packs
+- Modifications: Added dark mode support.
 ---
 Puzzle
 - Directory: assets\puzzle
@@ -166,10 +219,36 @@ Raised
 - Source: https://github.com/yurisuika/Raised
 - Modifications: Added support for the mod's hotbar selection, and added dark mode support.
 ---
+ReplayMod
+- Directories: assets\replaymod, assets\jgui
+  - License: GPL-3.0-or-later
+- Directory: assets\replaymod\replay_gui.png
+  - License: MIT
+- Source: https://github.com/ReplayMod/ReplayMod
+- Modifications: Added dark mode support.
+---
 Shulker Box Tooltip
 - Directory: assets\shulkerboxtooltip
 - License: MIT
 - Source: https://github.com/MisterPeModder/ShulkerBoxTooltip
+- Modifications: Added dark mode support.
+---
+Simple Voice Chat
+- Directory: assets\voicechat
+- License: ARR (All Rights Reserved)
+- Copyright holder: henkelmax
+- Granted permissions: Permission was granted by the copyright holder to include and redistribute support for their mod in this project, provided that no original mod icons or logos are included.
+- Permission evidence: [Discord > Simple Voice Chat > #support-threats > Support thread for smafisnova](https://discord.com/channels/854659575324344340/1497237531169915011)
+- Source: https://github.com/henkelmax/simple-voice-chat
+- Modifications: Added dark mode support.
+---
+Trade Cycling
+- Directory: assets\trade_cycling
+- License: ARR (All Rights Reserved)
+- Copyright holder: henkelmax
+- Granted permissions: Permission was granted by the copyright holder to include and redistribute support for their mod in this project, provided that no original mod icons or logos are included.
+- Permission evidence: [Discord > Simple Voice Chat > #support-threats > Support thread for smafisnova](https://discord.com/channels/854659575324344340/1497237531169915011)
+- Source: https://github.com/henkelmax/trade-cycling
 - Modifications: Added dark mode support.
 ---
 Trinkets
