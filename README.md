@@ -1,7 +1,7 @@
 # Nova UI
 A modern-looking vanilla-like dark mode GUI pack with support for many mods. It turns the UI to dark mode and enhances the visuals of the HUD elements by drastic messures (e.g. health, armor and food bars, hotbar). It also contains an integrated, centered crosshair.
 
-<a src="https://modrinth.com/project/1yOsbSgy"> <img src="https://cdn.modrinth.com/data/cached_images/4da12d5c64e20fa846f0afe77a05b2f461bc2578.png" width=40 height=40 alt="Modrinth"> </a> <a src="https://discord.gg/qh7kUsWzfn"> <img src="https://cdn.modrinth.com/data/cached_images/fa93a00d6c6a42e4871f3267f4d8c27e70e865f2.png" width=40 height=40 alt="Discord"> </a>
+<a href="https://modrinth.com/project/1yOsbSgy"> <img src="https://raw.githubusercontent.com/SmafisNova/Nova-UI/e8e1118085870512fcb59084a0f6bb1e0da1d06e/icons/modrinth.svg" width=40 height=40 alt="Modrinth"> </a> <a href="https://discord.gg/qh7kUsWzfn"> <img src="https://raw.githubusercontent.com/SmafisNova/Nova-UI/e8e1118085870512fcb59084a0f6bb1e0da1d06e/icons/discord.svg" width=40 height=40 alt="Discord"> </a> <a href="https://github.com/SmafisNova/Nova-UI"> <img src="https://raw.githubusercontent.com/SmafisNova/Nova-UI/e8e1118085870512fcb59084a0f6bb1e0da1d06e/icons/github.svg" width=40 height=40 alt="GitHub"> </a>
 
 ## Resource Pack Options
 This resource pack also comes with options for [Respackopts](https://modrinth.com/mod/respackopts). One allows you to enable or disable the integrated centered crosshair, the other one gives you the choice to re-enable the unnecessary hunger bar outlines, such as the Hunger and AppleSkin outlines, which have been replaced by a dedicated saturated food icon.
