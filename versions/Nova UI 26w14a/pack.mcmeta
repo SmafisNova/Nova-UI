@@ -1,0 +1,16 @@
+{
+    "pack": {
+		"min_format": 84,
+		"max_format": 84,
+        "description": "§7• Nova UI 2026.6.1herdcraft  \n§7• By §dSmafisNova"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"directory": "format_84",
+				"min_format": 84,
+				"max_format": 84
+			}
+		]
+	}
+}
