@@ -8,6 +8,7 @@ This resource pack also comes with options for [Respackopts](https://modrinth.co
 
 ## Supported Mods
 These are all of the mods currently supported since of the newest version of this resource pack. The current count is 47 mods in total.
+
 |Mod|26.1|1.21|1.20|1.19|
 |---|:---:|:---:|:---:|:---:|
 |[AppleSkin](https://modrinth.com/project/EsAfCjCV)|✓|✓|✓|✓|
@@ -63,9 +64,6 @@ This resource pack also comes with a way to automatically update to the newest v
 
 <font color="#eb4435">WARNING! I wouldn't recommend installing this mod if you already using Respackopts, since they occupy the same spot within the resource pack selection screen.</font>
 
-## Discord Server
-You can give feedback, report bugs, and visit the changelogs all on my Discord server. Click on this link to join: https://discord.gg/qh7kUsWzfn
-
 ## Tools Used
 - [7-Zip](https://www.7-zip.org/): Used for getting files quicker and more reliable
 - [Affinity](https://www.affinity.studio/): Used for the featured gallery image
@@ -73,28 +71,3 @@ You can give feedback, report bugs, and visit the changelogs all on my Discord s
 - [Minecraft Wiki](https://minecraft.wiki/): Used for checking out information about Minecraft versions
 - [OKLCH Color Picker & Converter](https://oklch.com/): Used for changing colors more perceptionally
 - [Visual Studio Code](https://code.visualstudio.com/): Used for working on text files
-
-## License
-This project contains assets under multiple licenses.
-
-This license (CC-BY-NC-SA-4.0) applies ONLY to original content created by SmafisNova.
-
-> You are free to use, modify, and share original content for non-commercial purposes under the terms of the CC-BY-NC-SA-4.0 license.
->
-> If you use these assets in your work, you must give appropriate credit, include a link to the license, and indicate if changes were made.
->
-> If you modify or adapt these assets, you must distribute your version under the same license (CC-BY-NC-SA-4.0).
-
-All third-party assets, including modified versions of those assets, remain under their original licenses and are NOT covered by this license.
-
-See the LICENSES directory for full license texts, attribution, and file-to-license mapping.
-
-Where there is any conflict, the original license of third-party content takes precedence.
-
----
-
-Copyright © 2026 SmafisNova
-
-License for original content: CC-BY-NC-SA-4.0
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt
