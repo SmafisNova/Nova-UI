@@ -11,6 +11,10 @@ Auth Me
 - Directory: assets/authme
 - Source: https://github.com/axieum/authme
 ---
+Dark OreUI Recreation
+- Directory: format_85_plus/assets/minecraft/shaders/core/text.fsh
+- Source: https://github.com/thetmc249/OreUI-Recreation
+---
 Detail Armor Bar
 - Directory: assets/detailab
 - Source: https://github.com/RedLime/DetailArmorBar
@@ -71,6 +75,14 @@ Overflowing Bars
 - Directory: assets/overflowingbars
 - Source: https://github.com/Fuzss/overflowingbars/tree/1.19
 # Apache License 2.0
+Chat Notify
+- Directories: assets/chatnotify, format_16_plus/assets/chatnotify
+- Source: https://github.com/TerminalMC/ChatNotify
+- Modified by: SmafisNova
+Client Sort
+- Directory: assets/clientsort
+- Source: https://github.com/TerminalMC/ClientSort
+- Modified by: SmafisNova
 Command Keys
 - Directories: assets/commandkeys, format_16_plus/assets/commandkeys
 - Source: https://github.com/TerminalMC/CommandKeys/
@@ -80,6 +92,12 @@ Fabric API
 - Directories: assets/fabric, format_34_plus/assets/fabric
 - Source: https://github.com/FabricMC/fabric-api
 - Modified by: SmafisNova
+# GNU General Public License v3.0 only
+BedrockIfy
+- Directory: assets/bedrockify
+- Source: https://github.com/juancarloscp52/BedrockIfy/
+- Modified by: SmafisNova
+- Last modified: 2026-06-11
 # GNU Lesser General Public License v3.0 or later
 Cherished Worlds
 - Directory: assets/cherishedworlds
@@ -93,6 +111,11 @@ Raised
 - Modified by: SmafisNova
 - Last modified: 2026-04-21
 # GNU Lesser General Public License v3.0 only
+Chat Patches
+- Directory: assets/chatpatches
+- Source: https://github.com/mrbuilder1961/ChatPatches
+- Modified by: SmafisNova
+- Last modified: 2026-06-12
 Cloth Config API
 - Directory: assets/cloth-config2
 - Source: https://github.com/shedaniel/cloth-config

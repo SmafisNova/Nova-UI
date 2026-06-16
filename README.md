@@ -7,7 +7,7 @@ A modern-looking vanilla-like dark mode GUI pack with support for many mods. It 
 This resource pack also comes with options for [Respackopts](https://modrinth.com/mod/respackopts). One allows you to enable or disable the integrated centered crosshair, the other one gives you the choice to re-enable the unnecessary hunger bar outlines, such as the Hunger and AppleSkin outlines, which have been replaced by a dedicated saturated food icon.
 
 ## Supported Mods
-These are all of the mods currently supported since of the newest version of this resource pack. The current count is 47 mods in total.
+These are all of the mods currently supported since of the newest version of this resource pack. The current count is 52 mods in total.
 
 |Mod|26.1|1.21|1.20|1.19|
 |---|:---:|:---:|:---:|:---:|
@@ -16,13 +16,18 @@ These are all of the mods currently supported since of the newest version of thi
 |[Armor Hud by Mcjunky33](https://modrinth.com/project/nqagUeq9)|✓|✓|✕|✕|
 |[Auth Me](https://modrinth.com/project/yjgIrBjZ)|✓|✓|✓|✓|
 |[Axiom](https://modrinth.com/project/N6n5dqoA)|✓|✓|✓|✕|
+|[Bedrockify](https://modrinth.com/project/ox3rDp1B)|✓|✓|✓|✓|
 |[Better Advancements](https://modrinth.com/project/Q2OqKxDG)|✓|✓|✓|✓|
 |[Bundles Beyond](https://modrinth.com/project/VhUy58Cq)|✓|✓|✕|✕|
 |[Camera Mod](https://modrinth.com/project/oiuNWinn)|✓|✓|✓|✓|
 |[Camera Utils](https://modrinth.com/project/rrwQMaWQ)|✓|✓|✓|✓|
 |[Capes](https://modrinth.com/project/89Wsn8GD)|✓|✓|✓|✓|
+|[Chat Notify](https://modrinth.com/project/Iudurxl8)|✓|✓|✓|✓|
+|[Chat Patches](https://modrinth.com/project/MOqt4Z5n)|✓|✓|✓|✓|
 |[Cherished Worlds](https://modrinth.com/project/3azQ6p0W)|✓|✓|✓|✓|
+|[Client Sort](https://modrinth.com/project/K0AkAin6)|✓|✓|✓|✕|
 |[Cloth Config API](https://modrinth.com/project/9s6osm5g)|✓|✓|✓|✓|
+|[Command Keys](https://modrinth.com/project/65UyswbY)|✓|✓|✓|✕|
 |[Corpse](https://modrinth.com/project/WrpuIfhw)|✓|✓|✓|✓|
 |[Detail Armor Bar](https://modrinth.com/project/hAt6ty93)|✕|✓|✓|✓|
 |[Detail Armor Bar Reconstructed](https://modrinth.com/project/Si9Uim4y)|✓|✓|✕|✕|
