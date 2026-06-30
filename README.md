@@ -17,7 +17,7 @@ These are all of the mods currently supported since of the newest version of thi
 |[Auth Me](https://modrinth.com/project/yjgIrBjZ)|✓|✓|✓|✓|✓|
 |[Axiom](https://modrinth.com/project/N6n5dqoA)|✓|✓|✓|✓|✕|
 |[BedrockIfy](https://modrinth.com/project/ox3rDp1B)||✓|✓|✓|✓|
-|[Better Advancements](https://modrinth.com/project/Q2OqKxDG)✓||✓|✓|✓|✓|
+|[Better Advancements](https://modrinth.com/project/Q2OqKxDG)|✓|✓|✓|✓|✓|
 |[Bundles Beyond](https://modrinth.com/project/VhUy58Cq)|✓|✓|✓|✕|✕|
 |[Camera Mod](https://modrinth.com/project/oiuNWinn)|✓|✓|✓|✓|✓|
 |[Camera Utils](https://modrinth.com/project/rrwQMaWQ)|✓|✓|✓|✓|✓|
