@@ -1,7 +1,7 @@
 {
     "condition": "crosshair",
     "fallbacks": [
-        "assets/dynamiccrosshair/respackopts/textures/gui/sprites/crosshair/diamond-large.png",
+        "assets/dynamiccrosshair/rpo/textures/gui/sprites/crosshair/diamond-large.png",
         "assets/dynamiccrosshair/textures/gui/sprites/hud/diamond-large.png"
     ]
 }

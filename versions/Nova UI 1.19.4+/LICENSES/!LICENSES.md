@@ -11,6 +11,10 @@ Auth Me
 - Directory: assets/authme
 - Source: https://github.com/axieum/authme
 ---
+Chest Search Bar
+- Directory: assets/chestsearchbar
+- Source: https://modrinth.com/project/FqlAuAzY
+---
 Dark OreUI Recreation
 - Directory: format_85_plus/assets/minecraft/shaders/core/text.fsh
 - Source: https://github.com/thetmc249/OreUI-Recreation
@@ -70,10 +74,6 @@ Shulker Box Tooltip
 Trinkets
 - Directory: assets/trinkets
 - Source: https://github.com/emilyploszaj/trinkets
-# Mozilla Public License 2.0
-Overflowing Bars
-- Directory: assets/overflowingbars
-- Source: https://github.com/Fuzss/overflowingbars/tree/1.19
 # Apache License 2.0
 Chat Notify
 - Directories: assets/chatnotify, format_16_plus/assets/chatnotify
@@ -198,6 +198,11 @@ Default Dark Mode
 - Source: https://github.com/nebuIr/Default-Dark-Mode
 - Modified: Yes
 ---
+Enchanted's Sodium Options
+- Directory: assets/enchanteds_sodium_options
+- Source: https://github.com/Enchanted-Games/enchanteds-sodium-options
+- Modified: Yes
+---
 No Chat Reports
 - Directory: assets/nochatreports
 - Original License: WTFPL
@@ -240,6 +245,41 @@ Corpse
 - Granted permissions: Permission was granted by the copyright holder to include and redistribute support for their mod in this project, provided that no original mod icons or logos are included.
 - Permission evidence: [Discord > Simple Voice Chat > #support-threats > Support thread for smafisnova](https://discord.com/channels/854659575324344340/1497237531169915011)
 - Source: https://github.com/henkelmax/corpse
+---
+Easy Anvils
+- Directory: assets/easyanvils
+- Copyright holder: fuzs
+- Granted permissions: Permission has been granted to add support for a dark mode resource pack to all projects containing a GUI, regardless of the restrictions in the LICENSE-ASSETS.md files.
+- Permission evidence: [Discord > Luna Pixel Studios > #fuzs-projects at 2026-06-27, 07:46](https://discord.com/channels/790272037578473512/917550806922846299/1520301812782207017)
+- Source: https://github.com/Fuzss/easy-anvils
+---
+Easy Magic
+- Directory: assets/easymagic
+- Copyright holder: fuzs
+- Granted permissions: Permission has been granted to add support for a dark mode resource pack to all projects containing a GUI, regardless of the restrictions in the LICENSE-ASSETS.md files.
+- Permission evidence: [Discord > Luna Pixel Studios > #fuzs-projects at 2026-06-27, 07:46](https://discord.com/channels/790272037578473512/917550806922846299/1520301812782207017)
+- Source: https://github.com/Fuzss/easy-magic
+---
+Easy Shulker Boxes
+- Directory: assets/easyshulkerboxes
+- Copyright holder: fuzs
+- Granted permissions: Permission has been granted to add support for a dark mode resource pack to all projects containing a GUI, regardless of the restrictions in the LICENSE-ASSETS.md files.
+- Permission evidence: [Discord > Luna Pixel Studios > #fuzs-projects at 2026-06-27, 07:46](https://discord.com/channels/790272037578473512/917550806922846299/1520301812782207017)
+- Source: https://github.com/Fuzss/easy-shulker-boxes
+---
+Item Interactions
+- Directories: assets/iteminteractions, assets/iteminteractionscore
+- Copyright holder: fuzs
+- Granted permissions: Permission has been granted to add support for a dark mode resource pack to all projects containing a GUI, regardless of the restrictions in the LICENSE-ASSETS.md files.
+- Permission evidence: [Discord > Luna Pixel Studios > #fuzs-projects at 2026-06-27, 07:46](https://discord.com/channels/790272037578473512/917550806922846299/1520301812782207017)
+- Sources: https://github.com/Fuzss/item-interactions, https://github.com/Fuzss/iteminteractionscore
+---
+Overflowing Bars
+- Directory: assets/overflowingbars
+- Copyright holder: fuzs
+- Granted permissions: Permission has been granted to add support for a dark mode resource pack to all projects containing a GUI, regardless of the restrictions in the LICENSE-ASSETS.md files.
+- Permission evidence: [Discord > Luna Pixel Studios > #fuzs-projects at 2026-06-27, 07:46](https://discord.com/channels/790272037578473512/917550806922846299/1520301812782207017)
+- Source: https://github.com/Fuzss/overflowingbars
 ---
 Simple Voice Chat
 - Directory: assets/voicechat
