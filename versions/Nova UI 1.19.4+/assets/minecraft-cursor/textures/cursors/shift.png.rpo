@@ -1,0 +1,18 @@
+{
+    "condition": "cursor.white",
+    "fallback": [
+        "assets/minecraft-cursor/rpo/textures/cursors/black/shift.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/brown/shift.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/red/shift.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/orange/shift.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/yellow/shift.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/lime/shift.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/green/shift.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/cyan/shift.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/light_blue/shift.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/blue/shift.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/purple/shift.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/magenta/shift.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/pink/shift.png"
+    ]
+}

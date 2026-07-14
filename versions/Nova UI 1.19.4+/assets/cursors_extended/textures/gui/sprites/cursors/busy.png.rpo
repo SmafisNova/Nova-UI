@@ -1,0 +1,18 @@
+{
+    "condition": "cursor.white",
+    "fallback": [
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/black/busy.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/brown/busy.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/red/busy.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/orange/busy.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/yellow/busy.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/lime/busy.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/green/busy.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/cyan/busy.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/light_blue/busy.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/blue/busy.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/purple/busy.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/magenta/busy.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/pink/busy.png"
+    ]
+}

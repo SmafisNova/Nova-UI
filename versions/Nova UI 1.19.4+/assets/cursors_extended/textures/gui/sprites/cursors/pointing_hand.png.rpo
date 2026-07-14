@@ -1,0 +1,18 @@
+{
+    "condition": "cursor.white",
+    "fallback": [
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/black/pointing_hand.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/brown/pointing_hand.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/red/pointing_hand.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/orange/pointing_hand.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/yellow/pointing_hand.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/lime/pointing_hand.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/green/pointing_hand.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/cyan/pointing_hand.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/light_blue/pointing_hand.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/blue/pointing_hand.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/purple/pointing_hand.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/magenta/pointing_hand.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/pink/pointing_hand.png"
+    ]
+}

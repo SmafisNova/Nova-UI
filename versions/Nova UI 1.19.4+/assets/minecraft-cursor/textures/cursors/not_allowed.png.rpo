@@ -1,0 +1,18 @@
+{
+    "condition": "cursor.white",
+    "fallback": [
+        "assets/minecraft-cursor/rpo/textures/cursors/black/not_allowed.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/brown/not_allowed.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/red/not_allowed.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/orange/not_allowed.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/yellow/not_allowed.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/lime/not_allowed.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/green/not_allowed.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/cyan/not_allowed.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/light_blue/not_allowed.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/blue/not_allowed.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/purple/not_allowed.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/magenta/not_allowed.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/pink/not_allowed.png"
+    ]
+}

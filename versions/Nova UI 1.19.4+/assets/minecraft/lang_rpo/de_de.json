@@ -1,7 +1,22 @@
 {
-    "rpo.nova_ui": "Nova UI-Einstellungen",
-        "rpo.nova_ui.crosshair": "Zentriertes Fadenkreuz",
-            "rpo.nova_ui.crosshair.tooltip": "Setze es auf \"False\" wenn du\neine Mod für ein zentriertes\nFadenkreuz verwendest.",
-        "rpo.nova_ui.hunger": "Keine unnötigen Hungeranzeigeumrandungen",
-            "rpo.nova_ui.hunger.tooltip": "\"False\" aktiviert die\nverschiedenen Umrandungen der\nHungeranzeige, während\"True\"\ndiese ansonsten unnötigen\nUmrandungen entfernt."
+    "rpo.Nova_UI": "Nova UI",
+        "rpo.Nova_UI.crosshair": "Zentriertes Fadenkreuz",
+            "rpo.Nova_UI.crosshair.tooltip": "Setze es auf \"False\" wenn du\neine Mod für ein zentriertes\nFadenkreuz verwendest.",
+        "rpo.Nova_UI.hunger": "Keine unnötigen Hungeranzeigeumrandungen",
+            "rpo.Nova_UI.hunger.tooltip": "\"False\" aktiviert die\nverschiedenen Umrandungen der\nHungeranzeige, während\"True\"\ndiese ansonsten unnötigen\nUmrandungen entfernt.",
+        "rpo.Nova_UI.cursor": "Mauszeigerstil",
+            "rpo.Nova_UI.cursor.white": "Weiß",
+            "rpo.Nova_UI.cursor.black": "Schwarz",
+            "rpo.Nova_UI.cursor.brown": "Braun",
+            "rpo.Nova_UI.cursor.red": "Rot",
+            "rpo.Nova_UI.cursor.orange": "Orange",
+            "rpo.Nova_UI.cursor.yellow": "Gelb",
+            "rpo.Nova_UI.cursor.lime": "Hellgrün",
+            "rpo.Nova_UI.cursor.green": "Grün",
+            "rpo.Nova_UI.cursor.cyan": "Türkis",
+            "rpo.Nova_UI.cursor.light_blue": "Hellblau",
+            "rpo.Nova_UI.cursor.blue": "Blau",
+            "rpo.Nova_UI.cursor.purple": "Violett",
+            "rpo.Nova_UI.cursor.magenta": "Magenta",
+            "rpo.Nova_UI.cursor.pink": "Rosa"
 }

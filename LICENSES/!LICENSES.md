@@ -31,6 +31,20 @@ EMI
 - Directory: assets/emi
 - Source: https://github.com/emilyploszaj/emi
 ---
+Cursors Extended
+- Directories: 
+  - assets/cursors_extended
+  - assets/minecraft-cursor
+- Source: https://github.com/fishstiz/cursors_extended
+
+Pixel Cursors
+- Directories: 
+  - assets/cursors_extended/textures/gui/sprites/cursors
+  - assets/cursors_extended/rpo/textures/gui/sprites/cursors
+  - assets/minecraft-cursor/textures//cursors
+  - assets/minecraft-cursor/rpo/textures//cursors
+- Source: https://modrinth.com/project/5f7SMVUe
+---
 Just Enough Items
 - Directory: assets/jei
 - Source: https://github.com/mezz/JustEnoughItems
@@ -225,6 +239,13 @@ Axiom
 - Permission evidence: [Discord > Axiom > #support > Can I add Axiom support to my resource pack?](https://discord.com/channels/1123229768087777330/1504843195811495996)
 - Source: https://modrinth.com/mod/axiom
 ---
+Bartering Station
+- Directory: assets/barteringstation
+- Copyright holder: fuzs
+- Granted permissions: Permission has been granted to add support for a dark mode resource pack to all projects containing a GUI, regardless of the restrictions in the LICENSE-ASSETS.md files.
+- Permission evidence: [Discord > Luna Pixel Studios > #fuzs-projects at 2026-06-27, 07:46](https://discord.com/channels/790272037578473512/917550806922846299/1520301812782207017)
+- Source: https://github.com/Fuzss/bartering-station
+---
 Camera Mod
 - Directory: assets/camera
 - Copyright holder: henkelmax
@@ -281,12 +302,26 @@ Overflowing Bars
 - Permission evidence: [Discord > Luna Pixel Studios > #fuzs-projects at 2026-06-27, 07:46](https://discord.com/channels/790272037578473512/917550806922846299/1520301812782207017)
 - Source: https://github.com/Fuzss/overflowingbars
 ---
+Puzzles API
+- Directory: assets/puzzlesapi
+- Copyright holder: fuzs
+- Granted permissions: Permission has been granted to add support for a dark mode resource pack to all projects containing a GUI, regardless of the restrictions in the LICENSE-ASSETS.md files.
+- Permission evidence: [Discord > Luna Pixel Studios > #fuzs-projects at 2026-06-27, 07:46](https://discord.com/channels/790272037578473512/917550806922846299/1520301812782207017)
+- Source: https://github.com/Fuzss/puzzlesapi
+---
 Simple Voice Chat
 - Directory: assets/voicechat
 - Copyright holder: henkelmax
 - Granted permissions: Permission was granted by the copyright holder to include and redistribute support for their mod in this project, provided that no original mod icons or logos are included.
 - Permission evidence: [Discord > Simple Voice Chat > #support-threats > Support thread for smafisnova](https://discord.com/channels/854659575324344340/1497237531169915011)
 - Source: https://github.com/henkelmax/simple-voice-chat
+---
+Statue Menus
+- Directory: assets/statuemenus
+- Copyright holder: fuzs
+- Granted permissions: Permission has been granted to add support for a dark mode resource pack to all projects containing a GUI, regardless of the restrictions in the LICENSE-ASSETS.md files.
+- Permission evidence: [Discord > Luna Pixel Studios > #fuzs-projects at 2026-06-27, 07:46](https://discord.com/channels/790272037578473512/917550806922846299/1520301812782207017)
+- Source: https://github.com/Fuzss/statue-menus
 ---
 Trade Cycling
 - Directory: assets/trade_cycling

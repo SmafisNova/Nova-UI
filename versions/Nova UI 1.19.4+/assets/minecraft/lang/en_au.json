@@ -1,7 +1,22 @@
 {
-    "rpo.nova_ui": "Nova UI Settings",
-        "rpo.nova_ui.crosshair": "Centred Crosshair",
-            "rpo.nova_ui.crosshair.tooltip": "Set it to \"False\" if you are\nusing a centred crosshair mod.",
-        "rpo.nova_ui.hunger": "No Unnecessary Hunger Bar Outlines",
-            "rpo.nova_ui.hunger.tooltip": "\"False\" enables the various\nhunger bar outlines, while\n\"True\" gets rid of these\notherwise unnecessary outlines."
+    "rpo.Nova_UI": "Nova UI",
+        "rpo.Nova_UI.crosshair": "Centred Crosshair",
+            "rpo.Nova_UI.crosshair.tooltip": "Set it to \"False\" if you are\nusing a centred crosshair mod.",
+        "rpo.Nova_UI.hunger": "No Unnecessary Hunger Bar Outlines",
+            "rpo.Nova_UI.hunger.tooltip": "\"False\" enables the various\nhunger bar outlines, while\n\"True\" gets rid of these\notherwise unnecessary outlines.",
+        "rpo.Nova_UI.cursor": "Cursor Style",
+            "rpo.Nova_UI.cursor.white": "White",
+            "rpo.Nova_UI.cursor.black": "Black",
+            "rpo.Nova_UI.cursor.brown": "Brown",
+            "rpo.Nova_UI.cursor.red": "Red",
+            "rpo.Nova_UI.cursor.orange": "Orange",
+            "rpo.Nova_UI.cursor.yellow": "Yellow",
+            "rpo.Nova_UI.cursor.lime": "Lime",
+            "rpo.Nova_UI.cursor.green": "Green",
+            "rpo.Nova_UI.cursor.cyan": "Cyan",
+            "rpo.Nova_UI.cursor.light_blue": "Light Blue",
+            "rpo.Nova_UI.cursor.blue": "Blue",
+            "rpo.Nova_UI.cursor.purple": "Purple",
+            "rpo.Nova_UI.cursor.magenta": "Magenta",
+            "rpo.Nova_UI.cursor.pink": "Pink"
 }

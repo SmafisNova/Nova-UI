@@ -1,0 +1,18 @@
+{
+    "condition": "cursor.white",
+    "fallback": [
+        "assets/minecraft-cursor/rpo/textures/cursors/black/crosshair.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/brown/crosshair.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/red/crosshair.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/orange/crosshair.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/yellow/crosshair.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/lime/crosshair.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/green/crosshair.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/cyan/crosshair.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/light_blue/crosshair.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/blue/crosshair.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/purple/crosshair.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/magenta/crosshair.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/pink/crosshair.png"
+    ]
+}

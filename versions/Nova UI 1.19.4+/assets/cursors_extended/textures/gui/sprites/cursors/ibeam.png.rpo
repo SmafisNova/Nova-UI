@@ -1,0 +1,18 @@
+{
+    "condition": "cursor.white",
+    "fallback": [
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/black/ibeam.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/brown/ibeam.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/red/ibeam.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/orange/ibeam.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/yellow/ibeam.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/lime/ibeam.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/green/ibeam.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/cyan/ibeam.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/light_blue/ibeam.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/blue/ibeam.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/purple/ibeam.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/magenta/ibeam.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/pink/ibeam.png"
+    ]
+}

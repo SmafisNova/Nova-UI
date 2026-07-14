@@ -1,9 +1,25 @@
 {
-    "id": "nova_ui",
+    "id": "Nova_UI",
     "version": 9,
     "capabilities": ["FileFilter", "DirFilter"],
     "conf": {
             "crosshair": true,
-            "hunger": true
+            "hunger": true,
+            "cursor": [
+                "white",
+                "black",
+                "brown",
+                "red",
+                "orange",
+                "yellow",
+                "lime",
+                "green",
+                "cyan",
+                "light_blue",
+                "blue",
+                "purple",
+                "magenta",
+                "pink"
+            ]
     }
 }

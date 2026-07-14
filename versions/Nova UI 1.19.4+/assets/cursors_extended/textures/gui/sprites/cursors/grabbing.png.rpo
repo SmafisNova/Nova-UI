@@ -1,0 +1,18 @@
+{
+    "condition": "cursor.white",
+    "fallback": [
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/black/grabbing.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/brown/grabbing.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/red/grabbing.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/orange/grabbing.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/yellow/grabbing.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/lime/grabbing.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/green/grabbing.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/cyan/grabbing.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/light_blue/grabbing.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/blue/grabbing.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/purple/grabbing.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/magenta/grabbing.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/pink/grabbing.png"
+    ]
+}

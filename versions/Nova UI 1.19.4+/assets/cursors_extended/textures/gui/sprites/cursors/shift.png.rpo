@@ -1,0 +1,18 @@
+{
+    "condition": "cursor.white",
+    "fallback": [
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/black/shift.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/brown/shift.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/red/shift.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/orange/shift.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/yellow/shift.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/lime/shift.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/green/shift.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/cyan/shift.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/light_blue/shift.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/blue/shift.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/purple/shift.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/magenta/shift.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/pink/shift.png"
+    ]
+}

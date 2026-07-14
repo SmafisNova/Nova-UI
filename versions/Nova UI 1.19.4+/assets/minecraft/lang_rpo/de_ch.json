@@ -1,7 +1,22 @@
 {
-    "rpo.nova_ui": "Nova UI-Iistellige",
-        "rpo.nova_ui.crosshair": "Zentriertes Fadechrüüz",
-            "rpo.nova_ui.crosshair.tooltip": "Setz es uuf \"False\" wenn du e\nMod für es zentriertes\nFadechrüüz verwendisch.",
-        "rpo.nova_ui.hunger": "Kei unnötigi Hungerazeigiumrandige",
-            "rpo.nova_ui.hunger.tooltip": "\"False\" aktiviert die\nverschiidene Umrandige vo de\nHungerazeigi, während \"True\"\ndie suscht unnötigi Umrandige\nentfernt."
+    "rpo.Nova_UI": "Nova UI",
+        "rpo.Nova_UI.crosshair": "Zentriertes Fadechrüüz",
+            "rpo.Nova_UI.crosshair.tooltip": "Setz es uuf \"False\" wenn du e\nMod für es zentriertes\nFadechrüüz verwendisch.",
+        "rpo.Nova_UI.hunger": "Kei unnötigi Hungerazeigiumrandige",
+            "rpo.Nova_UI.hunger.tooltip": "\"False\" aktiviert die\nverschiidene Umrandige vo de\nHungerazeigi, während \"True\"\ndie suscht unnötigi Umrandige\nentfernt.",
+        "rpo.Nova_UI.cursor": "Muuszeigerstil",
+            "rpo.Nova_UI.cursor.white": "Wiiss",
+            "rpo.Nova_UI.cursor.black": "Schwarz",
+            "rpo.Nova_UI.cursor.brown": "Bruun",
+            "rpo.Nova_UI.cursor.red": "Rot",
+            "rpo.Nova_UI.cursor.orange": "Orange",
+            "rpo.Nova_UI.cursor.yellow": "Gel",
+            "rpo.Nova_UI.cursor.lime": "Hellgrüen",
+            "rpo.Nova_UI.cursor.green": "Grüen",
+            "rpo.Nova_UI.cursor.cyan": "Türkis",
+            "rpo.Nova_UI.cursor.light_blue": "Hellblau",
+            "rpo.Nova_UI.cursor.blue": "Blau",
+            "rpo.Nova_UI.cursor.purple": "Violett",
+            "rpo.Nova_UI.cursor.magenta": "Magenta",
+            "rpo.Nova_UI.cursor.pink": "Rosa"
 }

@@ -1,0 +1,18 @@
+{
+    "condition": "cursor.white",
+    "fallback": [
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/black/resize_all.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/brown/resize_all.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/red/resize_all.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/orange/resize_all.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/yellow/resize_all.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/lime/resize_all.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/green/resize_all.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/cyan/resize_all.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/light_blue/resize_all.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/blue/resize_all.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/purple/resize_all.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/magenta/resize_all.png",
+        "assets/cursors_extended/rpo/textures/gui/sprites/cursors/pink/resize_all.png"
+    ]
+}

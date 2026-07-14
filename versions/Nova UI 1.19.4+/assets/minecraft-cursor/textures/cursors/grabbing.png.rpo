@@ -1,0 +1,18 @@
+{
+    "condition": "cursor.white",
+    "fallback": [
+        "assets/minecraft-cursor/rpo/textures/cursors/black/grabbing.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/brown/grabbing.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/red/grabbing.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/orange/grabbing.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/yellow/grabbing.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/lime/grabbing.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/green/grabbing.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/cyan/grabbing.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/light_blue/grabbing.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/blue/grabbing.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/purple/grabbing.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/magenta/grabbing.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/pink/grabbing.png"
+    ]
+}

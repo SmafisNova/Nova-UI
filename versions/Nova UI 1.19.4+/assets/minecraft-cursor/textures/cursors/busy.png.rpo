@@ -1,0 +1,18 @@
+{
+    "condition": "cursor.white",
+    "fallback": [
+        "assets/minecraft-cursor/rpo/textures/cursors/black/busy.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/brown/busy.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/red/busy.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/orange/busy.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/yellow/busy.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/lime/busy.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/green/busy.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/cyan/busy.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/light_blue/busy.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/blue/busy.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/purple/busy.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/magenta/busy.png",
+        "assets/minecraft-cursor/rpo/textures/cursors/pink/busy.png"
+    ]
+}
