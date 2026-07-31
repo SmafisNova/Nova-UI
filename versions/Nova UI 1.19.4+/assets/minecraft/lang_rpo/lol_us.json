@@ -1,0 +1,22 @@
+{
+    "rpo.Nova_UI": "Novaa UI",
+        "rpo.Nova_UI.crosshair": "CENTRD LAZR POINTR!",
+            "rpo.Nova_UI.crosshair.tooltip": "Spreh it to \"False\" if ya\nbei+ use a centrd crosshair mod.",
+        "rpo.Nova_UI.hunger": "No NuTlEsSz Hunggey Bar Outlines",
+            "rpo.Nova_UI.hunger.tooltip": "\"False\" onabils da voreas\nhunggey bar outlines, while\n\"True\" tek away dese dunts-necessry outines.",
+        "rpo.Nova_UI.cursor": "Cursur Stial",
+            "rpo.Nova_UI.cursor.white": "Waite",
+            "rpo.Nova_UI.cursor.black": "Blak",
+            "rpo.Nova_UI.cursor.brown": "Brownish",
+            "rpo.Nova_UI.cursor.red": "Redish",
+            "rpo.Nova_UI.cursor.orange": "Ornj",
+            "rpo.Nova_UI.cursor.yellow": "Yello",
+            "rpo.Nova_UI.cursor.lime": "Layme",
+            "rpo.Nova_UI.cursor.green": "Gren",
+            "rpo.Nova_UI.cursor.cyan": "Nyan",
+            "rpo.Nova_UI.cursor.light_blue": "Lite Bloo",
+            "rpo.Nova_UI.cursor.blue": "Bloo",
+            "rpo.Nova_UI.cursor.purple": "Parpal",
+            "rpo.Nova_UI.cursor.magenta": "Majenta",
+            "rpo.Nova_UI.cursor.pink": "Pinky"
+}
