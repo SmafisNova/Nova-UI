@@ -10,7 +10,7 @@ This resource pack also comes with options for [Respackopts](https://modrinth.co
 
 ## Supported Mods
 
-These are all of the mods currently supported since of the newest version of this resource pack. The current count is 64 mods in total.
+These are all of the mods currently supported since of the newest version of this resource pack. The current count is 68 mods in total.
 
 |Mod|26.2|26.1|1.21|1.20|1.19|
 |---|:---:|:---:|:---:|:---:|:---:|
