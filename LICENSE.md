@@ -1,23 +1,18 @@
-This project contains assets under multiple licenses.
+This project is licensed under multiple licenses.
 
-This license (CC-BY-NC-SA-4.0) applies ONLY to original content created by SmafisNova.
+Original work by SmafisNova and contributors and projects under public domain are licensed under CC BY-NC-SA 4.0:
 
-> You are free to use, modify, and share original content for non-commercial purposes under the terms of the CC-BY-NC-SA-4.0 license.
->
-> If you use these assets in your work, you must give appropriate credit, include a link to the license, and indicate if changes were made.
->
-> If you modify or adapt these assets, you must distribute your version under the same license (CC-BY-NC-SA-4.0).
+You are free to:
 
-All third-party assets, including modified versions of those assets, remain under their original licenses and are NOT covered by this license.
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+- The licensor cannot revoke these freedoms as long as you follow the license terms.
 
-See the LICENSES directory for full license texts, attribution, and file-to-license mapping.
+Under the following terms:
 
-Where there is any conflict, the original license of third-party content takes precedence.
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- NonCommercial — You may not use the material for commercial purposes.
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
----
-
-Copyright © 2026 SmafisNova
-
-License for original content: CC-BY-NC-SA-4.0
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt
+Any other content derived from other projects by other creators are licensed under their project's respective license. You can find exact file-to-license mapping under LICENSES.

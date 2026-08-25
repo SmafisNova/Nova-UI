@@ -1,24 +1,27 @@
 # Nova UI
+
 A modern-looking vanilla-like dark mode GUI pack with support for many mods. It turns the UI to dark mode and enhances the visuals of the HUD elements by drastic messures (e.g. health, armor and food bars, hotbar). It also contains an integrated, centered crosshair.
 
 <a href="https://modrinth.com/project/1yOsbSgy"> <img src="https://raw.githubusercontent.com/SmafisNova/Nova-UI/e8e1118085870512fcb59084a0f6bb1e0da1d06e/icons/modrinth.svg" width=40 height=40 alt="Modrinth"> </a> <a href="https://discord.gg/qh7kUsWzfn"> <img src="https://raw.githubusercontent.com/SmafisNova/Nova-UI/e8e1118085870512fcb59084a0f6bb1e0da1d06e/icons/discord.svg" width=40 height=40 alt="Discord"> </a> <a href="https://github.com/SmafisNova/Nova-UI"> <img src="https://raw.githubusercontent.com/SmafisNova/Nova-UI/e8e1118085870512fcb59084a0f6bb1e0da1d06e/icons/github.svg" width=40 height=40 alt="GitHub"> </a>
 
 ## Resource Pack Options
-This resource pack also comes with options for [Respackopts](https://modrinth.com/mod/respackopts). One allows you to enable or disable the integrated centered crosshair, the other one gives you the choice to re-enable the unnecessary hunger bar outlines, such as the Hunger and AppleSkin outlines, which have been replaced by a dedicated saturated food icon.
+
+This resource pack also comes with options for [Respackopts](https://modrinth.com/mod/respackopts). One allows you to enable or disable the integrated centered crosshair, the other one gives you the choice to re-enable the unnecessary hunger bar outlines, such as the Hunger and AppleSkin outlines, which have been replaced by a dedicated saturated food icon. There's even an option to change the color of the [Minecraft cursor](https://modrinth.com/project/o5fhgLeQ) to the default cursor colors (white and black) or any of the saturated colors.
 
 ## Supported Mods
+
 These are all of the mods currently supported since of the newest version of this resource pack. The current count is 64 mods in total.
 
 |Mod|26.2|26.1|1.21|1.20|1.19|
 |---|:---:|:---:|:---:|:---:|:---:|
 |[AppleSkin](https://modrinth.com/project/EsAfCjCV)|✓|✓|✓|✓|✓|
-|[Armor Hud](https://modrinth.com/project/AghHBZC5)|✓|✓|✓|✓|✕|
+|[Armor Hud by SaolGhra](https://modrinth.com/project/AghHBZC5)|✓|✓|✓|✓|✕|
 |[Armor Hud by Mcjunky33](https://modrinth.com/project/nqagUeq9)|✓|✓|✓|✕|✕|
 |[Armor Statues](https://modrinth.com/project/bbGCtEvb)|✓|✓|✓|✓|✕|
 |[Auth Me](https://modrinth.com/project/yjgIrBjZ)|✓|✓|✓|✓|✓|
 |[Axiom](https://modrinth.com/project/N6n5dqoA)|✓|✓|✓|✓|✕|
 |[Bartering Station](https://modrinth.com/project/EOig9U0j)|✓|✓|✓|✓|✓|
-|[BedrockIfy](https://modrinth.com/project/ox3rDp1B)||✓|✓|✓|✓|
+|[BedrockIfy](https://modrinth.com/project/ox3rDp1B)|✓|✓|✓|✓|✓|
 |[Better Advancements](https://modrinth.com/project/Q2OqKxDG)|✓|✓|✓|✓|✓|
 |[Bundles Beyond](https://modrinth.com/project/VhUy58Cq)|✓|✓|✓|✕|✕|
 |[Camera Mod](https://modrinth.com/project/oiuNWinn)|✓|✓|✓|✓|✓|
@@ -26,8 +29,8 @@ These are all of the mods currently supported since of the newest version of thi
 |[Capes](https://modrinth.com/project/89Wsn8GD)|✓|✓|✓|✓|✓|
 |[Chat Notify](https://modrinth.com/project/Iudurxl8)|✓|✓|✓|✓|✓|
 |[Chat Patches](https://modrinth.com/project/MOqt4Z5n)|✓|✓|✓|✓|✓|
-|[Cherished Worlds](https://modrinth.com/project/3azQ6p0W)||✓|✓|✓|✓|
-|[Chest Search Bar](https://modrinth.com/project/FqlAuAzY)||✓|✓|✓|✓|
+|[Cherished Worlds](https://modrinth.com/project/3azQ6p0W)|✓|✓|✓|✓|✓|
+|[Chest Search Bar](https://modrinth.com/project/FqlAuAzY)|✓|✓|✓|✓|✓|
 |[Client Sort](https://modrinth.com/project/K0AkAin6)|✓|✓|✓|✓|✕|
 |[Cloth Config API](https://modrinth.com/project/9s6osm5g)|✓|✓|✓|✓|✓|
 |[Command Keys](https://modrinth.com/project/65UyswbY)|✓|✓|✓|✓|✕|
@@ -47,6 +50,8 @@ These are all of the mods currently supported since of the newest version of thi
 |[Entity Sound Features](https://modrinth.com/project/IMuO8COj)|✓|✓|✓|✓|✓|
 |[Entity Texture Features](https://modrinth.com/project/BVzZfTc1)|✓|✓|✓|✓|✓|
 |[Fabric API](https://modrinth.com/project/P7dR8mSH)|✓|✓|✓|✓|✓|
+|[Hovering Hotbar](https://modrinth.com/project/IJ4PIJR2)|✓|✓|✕|✕|✕|
+|[Inventory Item Groups](https://modrinth.com/project/adriDDJt)|✓|✓|✓|✓|✕|
 |[Inventory Profiles Next](https://modrinth.com/project/O7RBXm3n)|✓|✓|✓|✓|✓|
 |[Item Interactions](https://github.com/Fuzss/item-interactions)|✓|✓|✓|✓|✕|
 |[Just Enough Items](https://modrinth.com/project/u6dRKJwZ)|✓|✓|✓|✓|✓|
@@ -59,6 +64,7 @@ These are all of the mods currently supported since of the newest version of thi
 |[MidnightLib](https://modrinth.com/project/codAaoxh)|✓|✓|✓|✓|✓|
 |[Mindful Darkness](https://modrinth.com/project/pzCY6C3e)|✓|✓|✓|✓|✓|
 |[Mod Menu](https://modrinth.com/project/mOgUt4GM)|✓|✓|✓|✓|✓|
+|[Name Tag Upgrade](https://modrinth.com/project/d7LHtwd7)|✓|✓|✓|✕|✕|
 |[No Chat Reports](https://modrinth.com/project/qQyHxfxd)|✓|✓|✓|✓|✓|
 |[Overflowing Bars](https://modrinth.com/project/XD7XOrAF)|✓|✓|✓|✓|✓|
 |[owo](https://modrinth.com/project/ccKDOlHs)|✓|✓|✓|✓|✓|
@@ -68,7 +74,8 @@ These are all of the mods currently supported since of the newest version of thi
 |[Raised](https://modrinth.com/project/nCQRBEiR)|✓|✓|✓|✓|✓|
 |[ReplayMod](https://modrinth.com/project/Nv2fQJo5)|✓|✓|✓|✓|✓|
 |[Respackopts](https://modrinth.com/project/TiF5QWZY)|✓|✓|✓|✓|✓|
-|[Show Me Your Skin!](https://modrinth.com/mod/show-me-your-skin)||✓|✓|✓|✓|
+|[RP Renames](https://modrinth.com/project/hvqcuDMT)|✓|✓|✓|✓|✕|
+|[Show Me Your Skin!](https://modrinth.com/project/bD7YqcA3)|✓|✓|✓|✓|✓|
 |[Shulker Box Tooltip](https://modrinth.com/project/2M01OLQq)|✓|✓|✓|✓|✓|
 |[Simple Voice Chat](https://modrinth.com/project/9eGKb6K1)|✓|✓|✓|✓|✓|
 |[Statue Menus](https://github.com/Fuzss/statue-menus)|✓|✓|✓|✓|✕|
@@ -77,6 +84,7 @@ These are all of the mods currently supported since of the newest version of thi
 |[Trinkets](https://modrinth.com/project/5aaWibi9)|✕|✕|✓|✓|✓|
 
 ## Tools Used
+
 - [7-Zip](https://www.7-zip.org/): Used for getting files quicker and more reliable
 - [Affinity](https://www.affinity.studio/): Used for the featured gallery image
 - [Blockbench](https://www.blockbench.net/): Used for working on every texture file and organizing them

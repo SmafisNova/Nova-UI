@@ -1,0 +1,22 @@
+{
+    "rpo.Nova_UI": "Nova UI",
+        "rpo.Nova_UI.crosshair": "Centred Crossheer",
+            "rpo.Nova_UI.crosshair.tooltip": "Set it to \"False\" if you are\nusing a centred crossheer mod.",
+        "rpo.Nova_UI.hunger": "No Needless Hunger Ban Outlines",
+            "rpo.Nova_UI.hunger.tooltip": "\"False\" enables the various\nhunger ban outlines, while\n\"True\" gets rid of these\notherwise needless outlines",
+        "rpo.Nova_UI.cursor": "Mouse Runner Style",
+            "rpo.Nova_UI.cursor.white": "White",
+            "rpo.Nova_UI.cursor.black": "Black",
+            "rpo.Nova_UI.cursor.brown": "Brown",
+            "rpo.Nova_UI.cursor.red": "Red",
+            "rpo.Nova_UI.cursor.orange": "Yellowred",
+            "rpo.Nova_UI.cursor.yellow": "Yellow",
+            "rpo.Nova_UI.cursor.lime": "Lime",
+            "rpo.Nova_UI.cursor.green": "Green",
+            "rpo.Nova_UI.cursor.cyan": "Teal",
+            "rpo.Nova_UI.cursor.light_blue": "Light Bloe",
+            "rpo.Nova_UI.cursor.blue": "Bloe",
+            "rpo.Nova_UI.cursor.purple": "Purple",
+            "rpo.Nova_UI.cursor.magenta": "Light Purple",
+            "rpo.Nova_UI.cursor.pink": "Bleak Red"
+}

@@ -45,6 +45,10 @@ Pixel Cursors
   - assets/minecraft-cursor/rpo/textures//cursors
 - Source: https://modrinth.com/project/5f7SMVUe
 ---
+Inventory Item Groups
+- Directory: assets/inventory_item_groups
+- Source: https://github.com/BizCub/inventory-item-groups
+---
 Just Enough Items
 - Directory: assets/jei
 - Source: https://github.com/mezz/JustEnoughItems
@@ -195,10 +199,10 @@ Capes
 - Source: https://github.com/CaelTheColher/Capes
 - Modified by: SmafisNova
 - Modified on: 2026-04-23
-# Creative Commons Attribution Non Commercial Share Alike 4.0 International
+# Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 AppleSkin
 - Directory: assets/appleskin
-- Original License: Unlicense
+- Original license: Unlicense
 - Source: https://github.com/squeek502/AppleSkin
 - Distributed in this project under: CC-BY-NC-SA-4.0
 ---
@@ -219,7 +223,7 @@ Enchanted's Sodium Options
 ---
 No Chat Reports
 - Directory: assets/nochatreports
-- Original License: WTFPL
+- Original license: WTFPL
 - Source: https://github.com/Aizistral-Studios/No-Chat-Reports
 - Distributed in this project under: CC-BY-NC-SA-4.0
 # Multiple Licenses
@@ -295,6 +299,13 @@ Item Interactions
 - Permission evidence: [Discord > Luna Pixel Studios > #fuzs-projects at 2026-06-27, 07:46](https://discord.com/channels/790272037578473512/917550806922846299/1520301812782207017)
 - Sources: https://github.com/Fuzss/item-interactions, https://github.com/Fuzss/iteminteractionscore
 ---
+Name Tag Upgrade
+- Directory: assets/nametagupgrade
+- Copyright holder: fuzs
+- Granted permissions: Permission has been granted to add support for a dark mode resource pack to all projects containing a GUI, regardless of the restrictions in the LICENSE-ASSETS.md files.
+- Permission evidence: [Discord > Luna Pixel Studios > #fuzs-projects at 2026-06-27, 07:46](https://discord.com/channels/790272037578473512/917550806922846299/1520301812782207017)
+- Source: https://github.com/Fuzss/name-tag-upgrade
+---
 Overflowing Bars
 - Directory: assets/overflowingbars
 - Copyright holder: fuzs
@@ -308,6 +319,13 @@ Puzzles API
 - Granted permissions: Permission has been granted to add support for a dark mode resource pack to all projects containing a GUI, regardless of the restrictions in the LICENSE-ASSETS.md files.
 - Permission evidence: [Discord > Luna Pixel Studios > #fuzs-projects at 2026-06-27, 07:46](https://discord.com/channels/790272037578473512/917550806922846299/1520301812782207017)
 - Source: https://github.com/Fuzss/puzzlesapi
+---
+RP Renames
+- Directory: assets/rprenames
+- Copyright holder: HiWord9
+- Granted pemissions: Permission has been granted to add modified assets from the mod into this project, including the right to distribute them publicly.
+- Permission evidence: [Discord > HiWord9's realm > #chat-en at 2026-06-27, 18:01](https://discord.com/channels/1165929315964289094/1278793951511449731/1541477481280970802)
+- Source: https://github.com/HiWord9/RPRenames
 ---
 Simple Voice Chat
 - Directory: assets/voicechat
