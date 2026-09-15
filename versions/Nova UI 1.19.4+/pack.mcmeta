@@ -4,7 +4,7 @@
 		"supported_formats": [15, 2147483647],
 		"min_format": 15,
 		"max_format": 2147483647,
-        "description": "§7• Nova UI 2026.9.1 \n§7• By §dSmafisNova"
+        "description": "§7• Nova UI 2026.9.2 \n§7• By §dSmafisNova"
 	},
 	"overlays": {
 		"entries": [
@@ -21,10 +21,16 @@
 				"max_format": 2147483647
 			},
 			{
-				"directory": "format_57_plus",
-				"formats": [57, 2147483647],
-				"min_format": 57,
+				"directory": "format_43_plus",
+				"formats": [43, 2147483647],
+				"min_format": 43,
 				"max_format": 2147483647
+			},
+			{
+				"directory": "format_57-75",
+				"formats": [57, 75],
+				"min_format": 57,
+				"max_format": 75
 			},
 			{
 				"directory": "format_69_plus",
@@ -33,16 +39,16 @@
 				"max_format": 2147483647
 			},
 			{
-				"directory": "format_76_plus",
-				"formats": [76, 2147483647],
+				"directory": "format_76-84",
+				"formats": [76, 84],
 				"min_format": 76,
-				"max_format": 2147483647
+				"max_format": 84
 			},
 			{
-				"directory": "format_85_plus",
-				"formats": [85, 2147483647],
+				"directory": "format_85-89",
+				"formats": [85, 89],
 				"min_format": 85,
-				"max_format": 2147483647
+				"max_format": 89
 			},
 			{
 				"directory": "format_30",
